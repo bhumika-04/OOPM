@@ -7,7 +7,7 @@ class addamount{
     public:
     addamount(){
         amount=50;
-        cout<<"Initial Amount in the Piggy bank is:"<<amount<<endl;
+        cout<<"Initial Amount  in the Piggy bank is:"<<amount<<endl;
     }
     addamount(int n){
         amount=50;
